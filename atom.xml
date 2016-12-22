@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>网厂鹅事</title>
+  <subtitle>我心匪石，不可转也</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-12-15T09:35:40.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>kirajun</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>图床测试</title>
+    <link href="http://yoursite.com/2016/12/14/%E5%9B%BE%E5%BA%8A%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2016/12/14/图床测试/</id>
+    <published>2016-12-14T09:59:13.000Z</published>
+    <updated>2016-12-15T09:35:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="无图无真相，使用七牛云服务，图床测试。"><a href="#无图无真相，使用七牛云服务，图床测试。" class="headerlink" title="无图无真相，使用七牛云服务，图床测试。"></a>无图无真相，使用七牛云服务，图床测试。</h2><p><img src="http://oi3u8tadn.bkt.clouddn.com/FqkZ4k82k-Cw8ZIQzEI8Mi_2S6kO" alt="Test"></p>
+<p><img src="media/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-11-09%20%E4%B8%8B%E5%8D%883.08.12.png" alt="屏幕快照 2016-11-09 下午3.08.12"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;无图无真相，使用七牛云服务，图床测试。&quot;&gt;&lt;a href=&quot;#无图无真相，使用七牛云服务，图床测试。&quot; class=&quot;headerlink&quot; title=&quot;无图无真相，使用七牛云服务，图床测试。&quot;&gt;&lt;/a&gt;无图无真相，使用七牛云服务，图床测试。&lt;/h2&gt;&lt;p&gt;&lt;i
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇</title>
+    <link href="http://yoursite.com/2016/12/09/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+    <id>http://yoursite.com/2016/12/09/第一篇/</id>
+    <published>2016-12-09T08:34:41.000Z</published>
+    <updated>2016-12-12T06:56:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>就这样开始第一篇吧。行成于思毁于随，业精于勤荒于嬉，共勉。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;就这样开始第一篇吧。行成于思毁于随，业精于勤荒于嬉，共勉。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
